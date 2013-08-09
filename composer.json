@@ -1,0 +1,12 @@
+{
+    "name": "datasift/netifaces",
+    "require": {
+        "datasift/os": "*",
+        "datasift/ifconfig-parser": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Datasift": "src/"
+        }
+    }
+}
